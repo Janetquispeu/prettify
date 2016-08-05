@@ -1,0 +1,146 @@
+.nav-menu{
+  text-align: center;
+  background-color: white;
+  color:black;
+
+}
+.menu{
+  width: 100px;
+  height: 70px;
+ 
+  display: inline-block;
+  float: left;
+  padding-top: 39px;
+  margin-left: 39px;
+}
+.nav-menu{
+  padding-left: 400px;
+}
+a{
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-top: 10px;
+  color:black;
+  font-weight: bold;
+}
+.container{
+  margin: 0 auto;
+  padding: 0px;
+ 
+  max-width: 110%;
+  overflow: hidden;
+
+}
+header{
+  width: 100%;
+  overflow: hidden;
+  max-width: 100%;
+}
+section{
+  width: 100%;
+  max-width: 100%;
+  padding:0px;
+  margin:0px;
+}
+.fondo{
+  width: 100%;
+  height: 520px;
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: 160%;
+  background-position: -10px -40px;
+  position: relative;
+  
+}
+.logo{
+  width: 500px;
+  height: 130px;
+  display: inline-block;
+  margin-left:500px;
+  margin-top: 130px; 
+}
+.title{
+  color: white;
+  font-family: Oswald;
+  font-size: 50px;
+  font-weight: 40px;
+  margin-top: -10px;
+
+}
+.sub-title{
+  font-family: Oswald;
+  color: white;
+  font-size: 30px;
+  padding-left: 50px;
+}
+.img-logo{
+  padding-left: 110px;
+
+}
+.main{
+  width: 100%;
+  height: 430px;
+  background-image: url("../images/tile1.png");
+  
+  background-size: 40%;
+  padding-top: 50px;
+  background-position: -10px -10px;
+  padding-left: 150px;
+  padding-right: 150px;
+
+}
+h2,h3{
+  color: #8F03E3;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.galeria1{
+  width: 100%;
+}
+.galeria2{
+  width: 100%;
+  border-radius: 100%;
+  padding: 5px 5px 0px 5px;  
+}
+.grilla-3{
+ border: 1px solid black;
+ padding: 5px 5px 0px 5px;
+ margin: 0px;
+}
+.section-gatos{
+  margin-top: 80px;
+}
+.border-gatos{
+  width: 100%;
+  overflow: hidden;
+  border-radius: 100%;
+  border: 2px solid #8F03E3;
+}
+.menu-gatos{
+  border-radius: 100%;
+}
+.sec-gatos{
+  width: 70%;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+.pie-pag{
+  width: 100%;
+  background-image: url("../images/tile2.png");
+  margin-top: 70px;
+  background-size: 3%;
+  padding-top: 60px;
+}
+.pie-pagina{
+  width: 40%;
+  margin-left: 370px; 
+  margin-top: 50px;
+  padding-bottom: 70px;
+  padding-left: 71px;
+  padding-right: 40px;
+
+  
+}
+.galeria3{
+  width: 100%;
